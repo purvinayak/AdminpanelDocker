@@ -44,13 +44,17 @@ COPY nginx.conf /etc/nginx/nginx.conf
 EXPOSE 3001 80
 
 # Create a startup script
-RUN echo '#!/bin/sh\n\
-# Start Nginx in background\n\
-nginx -g "daemon off;" &\n\
-\n\
-# Start Node.js server\n\
-node server.cjs\n\
-' > /app/start.sh && chmod +x /app/start.sh
+RUN cat <<'EOF' > /app/start.sh
+#!/bin/sh
+set -e
+
+# Start Nginx in background
+nginx -g "daemon off;" &
+
+# Start Node.js server
+node server.cjs
+EOF
+RUN chmod +x /app/start.sh
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
