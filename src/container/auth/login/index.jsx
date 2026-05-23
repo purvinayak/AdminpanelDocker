@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import useLogin from "./use-login";
 import CustomButton from "../../../shared/custombutton";
-import FormGroup from "../../../shared/FormGroup";
+import FormGroup from "../../../shared/formgroup";
 import Checkbox from "../../../shared/checkbox";
 import CustomModal from "../../../shared/custommodal";
 

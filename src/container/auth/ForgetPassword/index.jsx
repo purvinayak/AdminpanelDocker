@@ -1,7 +1,7 @@
 import React from "react";
 import { useForgetPassword } from "./use-forgot";
 import { Link } from "react-router-dom";
-import FormGroup from "../../../shared/FormGroup";
+import FormGroup from "../../../shared/formgroup";
 import CustomButton from "../../../shared/custombutton";
 import CustomModal from "../../../shared/custommodal";
 
