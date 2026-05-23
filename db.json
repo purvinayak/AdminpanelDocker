@@ -1,0 +1,298 @@
+{
+  "users": [
+    {
+      "email": "test34@gmail.com",
+      "name": "test34",
+      "password": "Test@123",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "name": "ronak",
+      "email": "ronakgami@gmail.com",
+      "password": "Test@121212",
+      "role": "user",
+      "updatedAt": "2025-06-25T09:29:03.271Z",
+      "id": 2
+    },
+    {
+      "name": "jeel",
+      "email": "jel@gmail.com",
+      "password": "Test@123",
+      "role": "user",
+      "createdAt": "2025-06-11T07:57:59.727Z",
+      "id": 6
+    },
+    {
+      "name": "Pal",
+      "email": "pallvi@gmail.com",
+      "password": "Test@1212",
+      "role": "user",
+      "createdAt": "2025-06-18T12:15:03.491Z",
+      "id": 9
+    },
+    {
+      "name": "Testt",
+      "email": "testt@gmail.com",
+      "password": "Test@1212",
+      "role": "user",
+      "createdAt": "2025-06-18T12:18:27.948Z",
+      "id": 10
+    },
+    {
+      "name": "Pall",
+      "email": "pall@gmail.com",
+      "password": "Test@12123",
+      "role": "user",
+      "createdAt": "2025-06-18T12:20:24.566Z",
+      "id": 11,
+      "updatedAt": "2025-06-25T06:11:41.802Z"
+    },
+    {
+      "name": "rohan",
+      "email": "rohan11@gmail.com",
+      "password": "Test@1212",
+      "role": "admin",
+      "createdAt": "2025-06-18T12:20:56.880Z",
+      "id": 12
+    },
+    {
+      "name": "QEWQ",
+      "email": "qeqe@gmail.com",
+      "password": "Test@12122",
+      "role": "user",
+      "createdAt": "2025-06-19T12:01:40.358Z",
+      "id": 13,
+      "updatedAt": "2025-06-24T08:45:06.021Z"
+    },
+    {
+      "name": "rohan",
+      "email": "ronakwwgami@gmail.com",
+      "password": "Test@121212",
+      "role": "user",
+      "createdAt": "2025-06-19T12:32:03.836Z",
+      "id": 14,
+      "updatedAt": "2025-06-24T08:46:27.001Z"
+    },
+    {
+      "name": "meetal",
+      "email": "meetal@gmail.com",
+      "password": "Test@1212",
+      "role": "user",
+      "createdAt": "2025-06-20T10:07:44.352Z",
+      "id": 15
+    },
+    {
+      "name": "janaki",
+      "email": "janaki@gmail.com",
+      "password": "Test@1212",
+      "role": "user",
+      "createdAt": "2025-06-24T11:39:48.691Z",
+      "id": 16
+    },
+    {
+      "name": "palak",
+      "email": "palaknewnew@yopmail.com",
+      "password": "Test@1234",
+      "role": "user",
+      "id": 22
+    },
+    {
+      "name": "PAYAL",
+      "email": "palllllllll@gmail.com",
+      "password": "Test@1234",
+      "role": "user",
+      "id": 23
+    },
+    {
+      "name": "Pal",
+      "email": "palaknewtwo@yopmail.com",
+      "password": "Test@1234",
+      "role": "user",
+      "id": 24
+    },
+    {
+      "name": "Pal",
+      "email": "paldasd@gmail.com",
+      "password": "Test@1234",
+      "role": "user",
+      "id": 27
+    },
+    {
+      "name": "saasd",
+      "email": "sasa@gmail.com",
+      "password": "Test@1234",
+      "role": "user",
+      "id": 28
+    },
+    {
+      "name": "Pal",
+      "email": "pal@gmail.com",
+      "password": "Test@1212",
+      "role": "user",
+      "id": 29
+    },
+    {
+      "name": "kinjal",
+      "email": "kinjal@gmail.com",
+      "password": "Test@1212",
+      "role": "user",
+      "id": 30
+    },
+    {
+      "name": "PAYAL",
+      "email": "p@gmail.com",
+      "password": "Test@1234",
+      "role": "admin",
+      "id": 31
+    },
+    {
+      "name": "krimahi",
+      "email": "krimahi@gmail.com",
+      "password": "Tesr@1212",
+      "role": "user",
+      "id": 32
+    }
+  ],
+  "tasks": [
+    {
+      "status": "Rejected",
+      "title": "dfgd fgdf dfg",
+      "description": "fdg   gfdgfdgfdgfdg dfg",
+      "dueDate": "2025-07-04",
+      "userId": 6,
+      "createdAt": "2025-06-17T12:06:53.123Z",
+      "id": 21,
+      "rowIndex": 5,
+      "updatedAt": "2025-06-19T11:53:39.533Z"
+    },
+    {
+      "title": "f dfgdfg df",
+      "description": "fd dfg dfgdfg dfgdfgfd",
+      "status": "Rejected",
+      "dueDate": "2025-06-26",
+      "userId": 6,
+      "createdAt": "2025-06-17T12:08:56.068Z",
+      "id": 22,
+      "rowIndex": 10
+    },
+    {
+      "title": "fdg dfg dfg",
+      "description": "fd gdfg fdgdfgdfgdfg",
+      "status": "Rejected",
+      "dueDate": "2025-06-19",
+      "userId": 6,
+      "createdAt": "2025-06-17T12:09:04.715Z",
+      "id": 23,
+      "rowIndex": 11
+    },
+    {
+      "title": " dfhfgh",
+      "description": " gfh ghgfh",
+      "status": "Rejected",
+      "dueDate": "2025-07-04",
+      "userId": 2,
+      "createdAt": "2025-06-19T06:14:49.588Z",
+      "id": 37,
+      "rowIndex": 24,
+      "updatedAt": "2025-06-19T06:35:19.368Z"
+    },
+    {
+      "title": "hfghfh",
+      "description": "fgh fgh gf    hfghfg",
+      "status": "Approved",
+      "dueDate": "2025-07-04",
+      "userId": 2,
+      "createdAt": "2025-06-19T06:49:52.218Z",
+      "id": 43,
+      "rowIndex": 30,
+      "updatedAt": "2025-06-19T06:50:57.775Z"
+    },
+    {
+      "title": "f ghfghgf",
+      "description": " gfh ghgfh fghfhfgh",
+      "status": "Rejected",
+      "dueDate": "2025-06-28",
+      "userId": 2,
+      "createdAt": "2025-06-19T06:50:01.434Z",
+      "id": 44,
+      "rowIndex": 31,
+      "updatedAt": "2025-06-19T06:51:07.735Z"
+    },
+    {
+      "title": "gtgtg",
+      "description": "gfgdsg fg fdgdfg dsfgfd    opopopop",
+      "status": "Approved",
+      "dueDate": "2025-07-03",
+      "userId": 2,
+      "createdAt": "2025-06-19T07:48:35.231Z",
+      "id": 49,
+      "rowIndex": 4,
+      "updatedAt": "2025-06-19T07:50:53.059Z"
+    },
+    {
+      "title": "fd gdfg df",
+      "description": "g h. gfh gfhgf hfg",
+      "status": "Approved",
+      "dueDate": "2025-06-27",
+      "userId": 2,
+      "createdAt": "2025-06-19T07:49:13.630Z",
+      "id": 53,
+      "rowIndex": 17,
+      "updatedAt": "2025-06-24T04:16:44.568Z"
+    },
+    {
+      "title": "gfh fgh",
+      "description": " hgj hgj hgjhgjhgjhgj",
+      "status": "Approved",
+      "dueDate": "2025-06-27",
+      "userId": 2,
+      "createdAt": "2025-06-19T07:57:44.229Z",
+      "id": 56,
+      "rowIndex": 20,
+      "updatedAt": "2025-06-24T04:16:31.344Z"
+    },
+    {
+      "title": "jhjfhj",
+      "description": "hgj ghj ghj h hjgj",
+      "status": "Rejected",
+      "dueDate": "2025-06-24",
+      "userId": 2,
+      "createdAt": "2025-06-19T10:47:34.268Z",
+      "id": 57,
+      "rowIndex": 29,
+      "updatedAt": "2025-06-19T10:51:59.353Z"
+    },
+    {
+      "title": "gh jghjghj",
+      "description": "hg  gh jghjghj h",
+      "status": "Rejected",
+      "dueDate": "2025-06-27",
+      "userId": 2,
+      "createdAt": "2025-06-19T10:47:44.180Z",
+      "id": 58,
+      "rowIndex": 20,
+      "updatedAt": "2025-06-24T08:33:19.942Z"
+    },
+    {
+      "title": "node",
+      "description": "node is run time environment ",
+      "status": "Rejected",
+      "dueDate": "2025-06-27",
+      "userId": 11,
+      "createdAt": "2025-06-25T09:31:45.870Z",
+      "id": 62,
+      "rowIndex": 13,
+      "updatedAt": "2025-06-25T09:33:23.707Z"
+    },
+    {
+      "title": "mongoo db",
+      "description": "mongo db is backend database",
+      "status": "In Progress",
+      "dueDate": "2025-07-04",
+      "userId": 11,
+      "createdAt": "2025-06-25T09:32:49.430Z",
+      "id": 63
+    }
+  ]
+}
