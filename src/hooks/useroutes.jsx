@@ -3,7 +3,7 @@ import { URLS } from "../constant/urls";
 import Dashboard from "../pages/user-dashboard";
 import Login from "../container/auth/login";
 import Register from "../container/auth/Registration";
-import Tasks from "../pages/Task";
+import Tasks from "../pages/task";
 import Users from "../pages/user";
 import ForgotPasswod from "../container/auth/ForgetPassword";
 import AdminDashboard from "../pages/admin-dashboard";
