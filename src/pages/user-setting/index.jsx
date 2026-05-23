@@ -1,5 +1,5 @@
 import React from "react";
-import FormGroup from "../../shared/FormGroup";
+import FormGroup from "../../shared/formgroup";
 import CustomButton from "../../shared/custombutton";
 import useUserSetting from "./use-usersetting";
 

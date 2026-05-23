@@ -3,7 +3,7 @@ import CustomButton from "../../shared/custombutton";
 import CustomModal from "../../shared/custommodal";
 import Table from "../../shared/table";
 import CustomMenuButton from "../../shared/custommenu-button";
-import SearchBox from "../../shared/SearchText";
+import SearchBox from "../../shared/searchtext";
 import { FaEllipsisV } from "react-icons/fa";
 import { useAdminDashboard } from "./use-admindashboard";
 

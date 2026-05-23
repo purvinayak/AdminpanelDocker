@@ -2,7 +2,7 @@ import React from "react";
 import useUsers from "./use-users";
 import Table from "../../shared/table";
 import CustomModal from "../../shared/custommodal";
-import SearchBox from "../../shared/SearchText";
+import SearchBox from "../../shared/searchtext";
 
 const Users = () => {
   const {

@@ -14,7 +14,7 @@ import { api } from "../../api/client";
 
 import { useState } from "react";
 import CustomForm from "../../shared/form"; // <-- import your CustomForm
-import FormGroup from "../../shared/FormGroup";
+import FormGroup from "../../shared/formgroup";
 
 const TaskForm = ({ initialValues, onSubmit: onSubmitProp }) => {
   const dispatch = useDispatch();

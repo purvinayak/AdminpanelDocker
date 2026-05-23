@@ -2,7 +2,7 @@ import React from "react";
 import { FaPlus, FaEdit, FaTrash, FaEllipsisV } from "react-icons/fa";
 import CustomButton from "../../shared/custombutton";
 import CustomModal from "../../shared/custommodal";
-import SearchBox from "../../shared/SearchText";
+import SearchBox from "../../shared/searchtext";
 import CustomMenuButton from "../../shared/custommenu-button";
 import TaskForm from "../../components/TaskForm";
 import Table from "../../shared/table";
