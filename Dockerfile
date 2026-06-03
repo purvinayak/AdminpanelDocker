@@ -41,19 +41,10 @@ COPY db.json ./
 COPY nginx.conf /etc/nginx/nginx.conf
 
 # Expose ports
-EXPOSE 3001 80
+EXPOSE 3000 80
 
 # Create a startup script
-RUN cat <<'EOF' > /app/start.sh
-#!/bin/sh
-set -e
-
-# Start Nginx in background
-nginx -g "daemon off;" &
-
-# Start Node.js server
-node server.cjs
-EOF
+COPY start.sh /app/start.sh
 RUN chmod +x /app/start.sh
 
 # Health check
